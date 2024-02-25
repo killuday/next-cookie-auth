@@ -1,6 +1,6 @@
 import {redirect} from "next/navigation";
 
-import {Login} from "@/components/component/login";
+import {Login} from "@/components/component/Login";
 import {getSession} from "../../lib";
 
 export default function Home() {
